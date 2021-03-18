@@ -1,0 +1,22 @@
+{
+  "name": "pyramid-descent-puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-he-dev/pyramid-descent-puzzle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-he-dev/pyramid-descent-puzzle/issues"
+  },
+  "homepage": "https://github.com/daniel-he-dev/pyramid-descent-puzzle#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
